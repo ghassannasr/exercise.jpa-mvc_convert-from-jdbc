@@ -2,7 +2,7 @@ package com.github.perscholas.config;
 
 import com.github.perscholas.DatabaseConnection;
 import com.github.perscholas.DatabaseConnectionInterface;
-import org.mariadb.jdbc.Driver;
+import com.mysql.cj.jdbc.Driver;
 
 import java.sql.DriverManager;
 import java.sql.SQLException;

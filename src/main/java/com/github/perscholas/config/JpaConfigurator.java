@@ -1,6 +1,6 @@
 package com.github.perscholas.config;
 
-import org.mariadb.jdbc.Driver;
+import com.mysql.cj.jdbc.Driver;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Persistence;
